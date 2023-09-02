@@ -1,0 +1,13 @@
+samples	group
+BCL	A
+BCM	A
+BCH	A
+BC	B
+RCL	C
+RCM	C
+RCH	C
+RC	D
+CES	E
+OSS	E
+BS	F
+RS	F
